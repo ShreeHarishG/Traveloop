@@ -1,4 +1,4 @@
-# 🌍 GlobeTrotter
+# 🌍 Traveloop
 
 **Plan Trips. Visualize Journeys. Travel Smarter.**
 
